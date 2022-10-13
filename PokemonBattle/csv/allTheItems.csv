@@ -1,0 +1,73 @@
+Antidote:100:Cures Poison
+Awakening:250:Cures Sleep
+Burn Heal:250:Cures Burn
+Calcium:9800:Raises Special Attack
+Carbos:9800:Raises Speed
+Dire Hit:650:Raises chances of a Critical Hit in battle
+Elixir:-1:Restores 10PP to each move
+Escape Rope:550:Escape from the current cave
+Ether:-1:Restores 10PP of one move
+Fire Stone:2100:Evolves Eevee, Growlithe, and Vulpix
+Fresh Water:200:Recovers 50HP
+Full Heal:600:Cures all status ailments
+Full Restore:3000:Restores all HP and cures all status ailments
+Guard Spec:700:Prevents stat reduction in a battle
+HP Up:9800:Raises max HP
+Hyper Potion:1200:Restores 200HP
+Ice Heal:250:Cures Freeze
+Iron:9800:Raises Defense
+Leaf Stone:-1:Evolves Exeggcute, Gloom, and Weepinbell
+Lemonade:350:Restores 80HP
+Max Elixir:-1:Restores all PP to all moves
+Max Ether:-1:Restores all PP to one move
+Max Potion:2500:Restores all HP
+Max Repel:700:Repels weaker Pokemon for 250 steps
+Max Revive:-1:Revives a fainted Pokemon to max HP
+Moon Stone:-1:Evolves Clefairy, Jigglypuff, Nidorina and Nidorino
+Nugget:-1:Sell for money
+Paralyz Heal:200:Cures Paralysis
+Poke Doll:1000:Allows escape from battle
+Potion:300:Restores 20HP
+PP Up:-1:Increases the max PP of a move
+Protein:9800:Raises Attack
+Rare Candy:-1:Raises a Pokemon's level by one
+Repel:350:Repels weaker Pokemon for 100 steps
+Revive:1500:Recovers a fainted Pokemon to half max HP
+Soda Pop:300:Recovers 80HP
+Super Potion:700:Restores 50HP
+Super Repel:500:Repels weaker Pokemon for 200 steps
+Thunderstone:2100:Evolves Eevee and Pikachu
+Water Stone:2100:Evolves Eevee, Poliwag, Shellder and Staryu
+X Accuracy:950:Raises accuracy in a battle
+X Attack:500:Raises attack in a battle
+X Defend:550:Raises defense in a battle
+X Special:350:Raises special in a battle
+X Speed:350:Raises speed in a battle
+/
+Pokeball:200:Catches Pokemon:1
+Great Ball:600:Greater chance of catching Pokemon than a Pokeball:1.5
+Ultra Ball:1200:Greater chance of catching Pokemon than a Great Ball:2
+Master Ball:-1:Always catches Pokemon:255
+Safari Ball:-1:A special ball for use in the Safari Zone:1.5
+//
+Bicycle:Allows travel at double speed
+Bike Voucher:Redeem at Cerulean Bike Shop for a free Bicycle
+Card Key:Unlocks doors in the Silph Co. building
+Coin Case:Holds 9999 Casino coins for use at Celadon Casino
+Dome Fossil:Used to clone Kabuto at the Cinnabar Island Laboratory
+EXP. All:Divides EXP from battle between all party members
+Gold Teeth:Return to Safari Zone Warden and receive HM04
+Good Rod:Fish for medium-levelled water Pokemon
+Helix Fossil:Used to clone Omanyte at the Cinnabar Island Laboratory
+Itemfinder:Detects hidden items in close proximity
+Lift Key:Unlocks the elevator in the Team Rocket Hideout, Celadon City
+Oak's Parcel:Deliver to Prof. Oak in Pallet Town and receive a Pokedex
+Old Amber:Used to clone Aerodactyl at the Cinnabar Island Laboratoy
+Old Rod:Fish for low-levelled water Pokemon
+Pokeflute:Awakens sleeping Pokemon
+Pokedex:Records all information about Pokemon seen and caught
+S.S. Ticket:Use to board the S.S. Anne in Vermilion City
+Secret Key:Unlocks Blaine's Gym on Cinnabar Island
+Silph Scope:Allows Ghosts to be detected in the Pokemon Tower at Lavendar Town
+Super Rod:Fish for high-levelled water Pokemon
+Town Map:Shows your position in the Pokemon World

@@ -1,0 +1,30 @@
+Pokemon Class
+---------------------
+Getters and Setters
+ADD EVOLUTIONS ON CSV
+
+
+Move Class
+---------------------
+Getters and Setters
+More CSV stuff :(
+
+
+Items
+---------------------
+All 4 classes need to be made + abstract one
+
+
+Bag
+---------------------
+Do something with that hash map or use something else
+
+
+BackendReader
+---------------------
+Pokedex
+  Evolution CSV (Probs a diff arr)
+  Ability CSV
+
+MovePool
+Finish Itemlist (need to do the split and seperate accordingly)
