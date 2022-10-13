@@ -1,0 +1,15 @@
+ROUTE_1
+ROUTE_1
+Home Sweet Home
+PLAYER_HOUSE
+Rival's House
+RIVAL_HOUSE
+Pallet Town: The Town of Beginners
+PROF_OAK_LAB
+The Lab
+ROUTE_21
+ROUTE_21
+ROUTE_21
+ROUTE_21
+ROUTE_21
+ROUTE_21
